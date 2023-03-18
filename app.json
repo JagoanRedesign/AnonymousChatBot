@@ -2,6 +2,7 @@
   "name": "AnonymousChatBot",
   "description": "Simple Chat Bot In English.",
   "repository": "https://github.com/Achu2234/AnonymousChatBot",
+"stack": "heroku-20",
   "env": {
     "TOKEN": {
       "description": "Get it on @botfather",
